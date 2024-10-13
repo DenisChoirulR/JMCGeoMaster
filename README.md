@@ -34,5 +34,8 @@ DB_PASSWORD=your_database_password
   php artisan migrate
 ```
 ```bash
+  php artisan key:generate
+```
+```bash
   php artisan serve
 ```
